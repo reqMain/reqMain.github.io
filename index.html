@@ -104,7 +104,7 @@
 			function shareListener() {
 				if(!click) {
 					click = true
-					window.open('whatsapp://send?text=https://google.com')
+					window.open('https://api.whatsapp.com/send?text=https://google.com')
 					progressContainer.style.display = 'block'
 					setTimeout(increaseProgress, 5000)
 				}
