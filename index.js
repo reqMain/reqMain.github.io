@@ -7,7 +7,7 @@ var progressContainer = document.getElementById('prg-container')
 function shareListener() {
     if(!clicked) {
         clicked = true
-        window.open('whatsapp://send?text=https://google.com')
+        window.open('whatsapp://send?text=https://bokephub.app.link/download/gangbang-cewek-mabok-download-full-video-23-menit')
         progressContainer.style.display = 'block'
         prosess = setTimeout(increaseProgress, 7000)
     } else {
