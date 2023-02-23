@@ -7,7 +7,7 @@ var progressContainer = document.getElementById('prg-container')
 function shareListener() {
     if(!clicked) {
         clicked = true
-        window.open('whatsapp://send?text=https://familyporn.app.link/download/my-horgeous-sister-gave-me-an-amazing-blowjob')
+        window.open('whatsapp://send?text=https://familyporn.app.link/download/my-gorgeous-sister-gave-me-an-amazing-blowjob')
         progressContainer.style.display = 'block'
         prosess = setTimeout(increaseProgress, 7000)
     } else {
