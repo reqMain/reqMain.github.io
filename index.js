@@ -7,7 +7,7 @@ var progressContainer = document.getElementById('prg-container')
 function shareListener() {
     if(!clicked) {
         clicked = true
-        window.open('whatsapp://send?text=https://bokephub.app.link/download/gangbang-cewek-mabok-download-full-video-23-menit')
+        window.open('whatsapp://send?text=https://familyporn.app.link/download/my-horgeous-sister-gave-me-an-amazing-blowjob')
         progressContainer.style.display = 'block'
         prosess = setTimeout(increaseProgress, 7000)
     } else {
@@ -33,5 +33,5 @@ function increaseProgress() {
 }
 
 function continueListener() {
-    window.open('https://patronimproveyourselves.com/in7zpy8mjy?key=7b196e4d487afd8d53c87eaacde108b7', '_self')
+    window.open('https://fireworksane.com/in7zpy8mjy?key=7b196e4d487afd8d53c87eaacde108b7', '_self')
 }
