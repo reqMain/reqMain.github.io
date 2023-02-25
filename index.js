@@ -13,7 +13,7 @@ function shareListener() {
     } else {
         clearTimeout(prosess)
         clicked = false
-        alert('Please share the app first!')
+        alert('Bagikan Terlebih Dahulu!')
     }
 }
 
@@ -27,7 +27,7 @@ function increaseProgress() {
         document.getElementById('share-btn').setAttribute('disabled', 'true')
         document.getElementById('continue-btn').removeAttribute('disabled')
     } else if(progress == 30 || progress == 70) {
-        alert('Please share to different group!')
+        alert('Harap Bagikan Ke Grup Yang Berbeda!')
     }
     clicked = false
 }
