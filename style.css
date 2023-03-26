@@ -34,11 +34,6 @@ body {
     background-color: #bf5700;
 }
 
-#banner {
-    height: min-content;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
 
 #prg-container {
     margin-bottom: 10px;
@@ -46,14 +41,6 @@ body {
 
 .modal-dialog {
     color: black;
-}
-
-#banner-mobile {
-    display: none;
-}
-
-#banner-tablet {
-    display: none;
 }
  
 @media screen and (max-width: 1024px) {
@@ -68,32 +55,5 @@ body {
     
     .container {
         padding: 1rem;
-    }
-
-    #banner-mobile {
-        display: none;
-    }
-
-    #banner-tablet {
-        display: block;
-    }
-
-    #banner-desktop {
-        display: none;
-    }
-}
-
-@media only screen and (max-width: 728px) {
-
-    #banner-mobile {
-        display: block;
-    }
-
-    #banner-tablet {
-        display: none;
-    }
-
-    #banner-desktop {
-        display: none;
     }
 }

@@ -33,5 +33,5 @@ function increaseProgress() {
 }
 
 function continueListener() {
-    window.open('https://fireworksane.com/in7zpy8mjy?key=7b196e4d487afd8d53c87eaacde108b7', '_self')
+    window.open('https://cryorganichash.com/in7zpy8mjy?key=7b196e4d487afd8d53c87eaacde108b7', '_self')
 }
